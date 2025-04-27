@@ -1,6 +1,6 @@
 
 /** @jsx h */
-import { h } from "https://esm.sh/preact@10.13.2";
+import { h } from "../deps.ts";
 import Navbar from "../components/Navbar.tsx";
 import Footer from "../components/Footer.tsx";
 
